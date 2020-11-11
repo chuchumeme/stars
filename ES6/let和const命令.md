@@ -9,6 +9,7 @@
   let a = 1;
   var b = 1;
 }
+
 console.log(a) // 报错 a is not defined
 console.log(b) // 1
 ```
