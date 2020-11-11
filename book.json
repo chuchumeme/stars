@@ -38,11 +38,21 @@
         "search-plus",
         "anchor-navigation-ex-toc@0.0.9",
         "editlink",
-        "copy-code-button"
+        "copy-code-button",
+        "github-buttons"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/chuchumeme/stars"
+        },
+        "github-buttons": {
+            "repo": "zhangjikai/gitbook-use",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
         },
         "editlink": {
             "base": "https://github.com/chuchumeme/stars/blob/master",
