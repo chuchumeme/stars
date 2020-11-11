@@ -32,25 +32,25 @@
         "theme-comscore",
         "splitter",
         "github",
+        "github-buttons@2.1.0",
         "-sharing",
         "-lunr",
         "-search",
         "search-plus",
         "anchor-navigation-ex-toc@0.0.9",
         "editlink",
+        "fontsettings",
         "copy-code-button",
-        "github-buttons"
+        "lightbox"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/chuchumeme/stars"
         },
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "chuchumeme/stars",
             "types": [
-                "star",
-                "watch",
-                "fork"
+                "star"
             ],
             "size": "small"
         },
