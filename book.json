@@ -40,8 +40,7 @@
         "anchor-navigation-ex-toc@0.0.9",
         "editlink",
         "fontsettings",
-        "copy-code-button",
-        "lightbox"
+        "copy-code-button"
     ],
     "pluginsConfig": {
         "github": {

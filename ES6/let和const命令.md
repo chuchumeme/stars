@@ -14,7 +14,7 @@ console.log(a) // 报错 a is not defined
 console.log(b) // 1
 ```
 
-##### 不存在变量提升:star:
+##### 不存在变量提升​ :star:
 
 就是说变量调用要在声明之后，var存在变量提升
 
@@ -22,11 +22,11 @@ console.log(b) // 1
 
 在代码块中使用let，即使全局有相同变量被var声明，代码块中的变量也不会被全局所影响
 
-##### 不允许重复声明:star:
+##### 不允许重复声明​  :star:
 
 不能在同一作用域中重复声明
 
-##### 块级作用域:star:
+##### 块级作用域​ :star:
 
 什么情况下需要块级作用域？
 
@@ -53,7 +53,7 @@ for (var i = 0; i < s.length; i++) {
 console.log(i); // 5
 ```
 
-##### ES6的块级作用域:star:
+##### ES6的块级作用域 :star:
 
 ```js
 function f1() { // 块
