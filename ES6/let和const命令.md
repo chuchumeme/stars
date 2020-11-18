@@ -1,4 +1,4 @@
-### let和const命令
+# let和const命令
 
 #### let :star:
 
@@ -69,7 +69,7 @@ function f1() { // 块
 
 块作用域的出现，立即执行函数表达式大可不必了。（因为立即执行函数的作用就是避免污染全局，形成一个单独的作用域）
 
-#### const:star:
+#### const :star:
 
 const声明一个只读的变量（一旦声明立即赋值，不能更改，只声明不赋值会报错）
 
@@ -87,7 +87,7 @@ foo.prop
 foo = {}; // TypeError: "foo" is read-only
 ```
 
-#### 顶层对象:star:
+#### 顶层对象 :star:
 
 ES5中顶层对象是window，var和function定义的全局变量可使用window调用
 
